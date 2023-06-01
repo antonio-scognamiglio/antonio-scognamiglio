@@ -1,6 +1,5 @@
 # 💫 About Me:
-📚 I am a Pier student at the Apple Developer Academy in Naples.<br>
-⚡ I am a tech enthusiast who is always eager to learn and grow as a developer.<br>
+📚 I am a tech enthusiast who is always eager to learn and grow as a developer.<br>
 🌱 I am currently deepen my skills as an iOS Developer.<br>
 🌟 I enjoy team collaborations to deliver exceptional user experiences.<br>
 
