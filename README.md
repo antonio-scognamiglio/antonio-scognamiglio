@@ -1,6 +1,8 @@
 # 💫 About Me:
-📚 I am a Pier student at the Apple Developer Academy in Naples<br>⚡ I am a tech enthusiast<br>🌱 I am currently deepen my skills as an iOS Developer<br>
-
+📚 I am a Pier student at the Apple Developer Academy in Naples.<br>
+⚡ I am a tech enthusiast who is always eager to learn and grow as a developer.<br>
+🌱 I am currently deepen my skills as an iOS Developer.<br>
+🌟 I enjoy team collaborations to deliver exceptional user experiences.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-scognamiglio-2509) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ascognamiglio95) 
